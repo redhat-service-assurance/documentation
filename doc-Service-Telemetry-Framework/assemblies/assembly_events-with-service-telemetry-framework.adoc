@@ -1,0 +1,54 @@
+ifdef::context[:parent-context-of-events-with-service-telemetry-framework: {context}]
+
+:_mod-docs-content-type: ASSEMBLY
+
+ifndef::context[]
+[id="events-with-service-telemetry-framework"]
+endif::[]
+ifdef::context[]
+[id="events-with-service-telemetry-framework_{context}"]
+endif::[]
+= Events with Service Telemetry Framework
+
+:context: events-with-service-telemetry-framework
+
+[role="_abstract"]
+This paragraph is the assembly introduction. It explains what the user will accomplish by working through the modules in the assembly and sets the context for the user story the assembly is based on.
+
+== Prerequisites
+
+* A bulleted list of conditions that must be satisfied before the user starts following this assembly.
+* You can also link to other modules or assemblies the user must follow before starting this assembly.
+* Delete the section title and bullets if the assembly has no prerequisites.
+* X is installed. For information about installing X, see <link>.
+* You can log in to X with administrator privileges.
+
+include::../modules/con_events-collection-with-openstackshort-and-projectshort.adoc[leveloffset=+1]
+
+include::../modules/proc_configuring-openstackshort-for-events-collection-and-transport.adoc[leveloffset=+1]
+
+include::../modules/proc_forwarding-events-from-projectshort-to-elasticsearch.adoc[leveloffset=+1]
+
+include::../modules/con_multicloud-events-collection-with-openstackshort-and-projectshort.adoc[leveloffset=+1]
+
+include::../modules/proc_configuring-multiple-openstackshort-environments-for-events-collection.adoc[leveloffset=+1]
+
+include::../modules/proc_configuring-projectshort-for-multicloud-events.adoc[leveloffset=+1]
+
+[role="_additional-resources"]
+== Next steps
+
+* This section is optional.
+* Provide a bulleted list of links that contain instructions that might be useful to the user after they complete this procedure.
+* Use an unnumbered bullet (*) if the list includes only one step.
+
+[role="_additional-resources"]
+== Additional resources
+
+* This section is optional.
+* Provide a bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
+* Use an unnumbered bullet (*) if the list includes only one step.
+
+ifdef::parent-context-of-events-with-service-telemetry-framework[:context: {parent-context-of-events-with-service-telemetry-framework}]
+ifndef::parent-context-of-events-with-service-telemetry-framework[:!context:]
+

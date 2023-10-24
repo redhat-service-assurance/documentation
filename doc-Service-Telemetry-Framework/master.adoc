@@ -37,6 +37,9 @@ include::assemblies/assembly_completing-the-stf-configuration-using-director-ope
 endif::include_when_16_2,include_when_17_1[]
 endif::[]
 
+// events in stf
+include::assemblies/assembly_events-with-service-telemetry-framework.adoc[leveloffset=+1]
+
 //advanced features
 include::assemblies/assembly_advanced-features.adoc[leveloffset=+1]
 

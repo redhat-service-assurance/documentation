@@ -1,0 +1,20 @@
+:_mod-docs-content-type: CONCEPT
+
+[id="multicloud-events-collection-with-openstackshort-and-projectshort_{context}"]
+= Multicloud events collection with {OpenStackShort} and {ProjectShort}
+
+[role="_abstract"]
+Write a short introductory paragraph that provides an overview of the module.
+
+The contents of a concept module give the user descriptions and explanations needed to understand and use a product.
+
+* Look at nouns and noun phrases in related procedure modules and assemblies to find the concepts to explain to users.
+* Explain only things that are visible to users. Even if a concept is interesting, it probably does not require explanation if it is not visible to users.
+* Avoid including action items. Action items belong in procedure modules. However, in some cases a concept or reference can include suggested actions when those actions are simple, are highly dependent on the context of the module, and have no place in any procedure module. In such cases, ensure that the heading of the concept or reference remains a noun phrase and not a gerund.
+
+[role="_additional-resources"]
+.Additional resources
+* A bulleted list of links to other closely-related material. These links can include `link:` and `xref:` macros.
+* For more details on writing concept modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+
